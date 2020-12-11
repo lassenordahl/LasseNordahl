@@ -7,6 +7,7 @@ Currently I'm working @ The New York Times on the R&D Team. Here I'm playing aro
 Feel free to explore my github, or even better check out my website [lassenordahl.com](http://www.lassenordahl.com) :)
 
 
+![Visitor Count](https://profile-counter.glitch.me/LasseNordahl/count.svg)
 
 <!--
 **LasseNordahl/LasseNordahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
