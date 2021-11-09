@@ -2,7 +2,7 @@
 
 I'm Lasse, an alum from UC Irvine with a major in Computer Science!
 
-Currently I'm working @ Cockroach Labs building their cloud products and serverless offerings.
+Currently I'm working @ Cockroach Labs building their cloud products.
 
 Feel free to explore my github, or even better check out my website [lassenordahl.com](http://www.lassenordahl.com) :)
 
